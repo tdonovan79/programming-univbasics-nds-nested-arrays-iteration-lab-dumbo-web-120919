@@ -19,7 +19,7 @@ def join_ingredients(src)
      end
      element_index += 1
    end
-   pizza_array << new_phrase
+   pizza_array << pizza_phrase
    row_index += 1
   end
 end
